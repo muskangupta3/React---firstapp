@@ -4,7 +4,7 @@ import AboutLittleLemon from "./components/Week 3/Module 1/AboutLittleLemon";
 import Contact from "./components/Week 3/Module 1/Contact";
 import { Routes, Route, Link } from "react-router-dom";
 
-function App() {
+function Module1AppWeek3() {
   return (
     <div> 
 	  <nav>
@@ -21,4 +21,4 @@ function App() {
   );
 };
 
-export default App;
+export default Module1AppWeek3;
