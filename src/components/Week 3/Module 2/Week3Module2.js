@@ -1,7 +1,7 @@
 import "./App.css";
 import logo from './components/Week 3/Module 2/Assets/logo.png'
 
-function App() {
+function Week3Module2() {
   return (
     <div className="App">
       <h1>Task: Add an image below</h1>
@@ -11,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+export default Week3Module2;
