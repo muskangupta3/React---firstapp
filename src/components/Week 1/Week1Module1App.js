@@ -2,7 +2,7 @@
 import './App.css';
 import Card from './Module 3/Card';
 
-function Module1App() {
+function Week1Module1App() {
   return (
 //Week 2
     // <div>
@@ -25,4 +25,4 @@ function Module1App() {
   );
 }
 
-export default Module1App;
+export default Week1Module1App;
